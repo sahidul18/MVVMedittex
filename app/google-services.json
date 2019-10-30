@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404133256941",
+    "firebase_url": "https://mvvmedittex.firebaseio.com",
+    "project_id": "mvvmedittex",
+    "storage_bucket": "mvvmedittex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404133256941:android:7ce524e5b65c2be5e736e4",
+        "android_client_info": {
+          "package_name": "com.rjt.mvvmedittex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404133256941-f4iheq57v4kugp15lm9vf2tau1tcldd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rjt.mvvmedittex",
+            "certificate_hash": "0fdfa01d97a47c75bbd8b053f6f3cc2b6dbca29a"
+          }
+        },
+        {
+          "client_id": "404133256941-99hnf5keqqmtb82g8kmdvn5oqo3a5vld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaEHSXP5Et5qkGGFsfLcB7fvTHP50JP3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404133256941-99hnf5keqqmtb82g8kmdvn5oqo3a5vld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
